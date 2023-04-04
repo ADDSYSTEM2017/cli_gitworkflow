@@ -1,2 +1,2 @@
 # cli_gitworkflow
-Site de exemplos do cursoGitWorkflow - UpInside Treinamentos
+Site de exemplos do curso GitWorkflow - UpInside Treinamentos
